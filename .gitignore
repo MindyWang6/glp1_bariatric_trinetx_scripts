@@ -1,0 +1,31 @@
+# SAS temporary and output files
+*.log
+*.lst
+*.lck
+*.bak
+*.tmp
+*.sas7bdat
+*.sas7bndx
+*.sas7bvew
+*.sas7bcat
+*.sas7bitm
+*.egp
+*.srx
+
+# Exported reports
+*.html
+*.pdf
+*.rtf
+*.csv
+*.xlsx
+
+# System and editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python/Conda artifacts if used locally
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
